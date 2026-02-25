@@ -103,14 +103,6 @@ Academic Contribution: Group 18 | Software Engineering (CSC 403)
 
 ---
 
-### 💡 Portfolio Notes
-
-- Upload the file “Group 18 report.pdf” as proof of research documentation.
-- Include the UML diagram images to demonstrate structured software engineering design.
-- Recommended repository tags: computer-vision, opencv, python, sqlite, software-engineering.
-
----
-
 ### 📄 License
 
 This project is licensed under the MIT License.
