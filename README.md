@@ -62,8 +62,8 @@ The project follows **Software Engineering (SDLC)** principles:
 
 .
 ├── student_attendance_tracker_notebook.py # Primary Source Code
-├── Group 18 report.pdf # Full Research Paper (PDF)
-├── group_18_uml_diagram/ # Architectural Blueprints
+├── report.pdf # Full Research Paper (PDF)
+├── uml_diagram/ # Architectural Blueprints
 │ ├── class_uml_diagram.jpg # Data Relationships
 │ ├── sequence_uml_diagram.jpg # Process Timeline
 │ └── use_case_diagram.jpg # Actor Roles
@@ -99,7 +99,7 @@ The system provides:
 
 Future work may explore biometric integration to further enhance verification and prevent impersonation.
 
-Academic Contribution: Group 18 | Software Engineering (CSC 403)
+Academic Contribution: Software Engineering (CSC 403)
 
 ---
 
